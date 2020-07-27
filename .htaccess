@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^404/ 404.php [NC,L]
+
+# 404 page redirect, change with domain details
+ErrorDocument 404 https://domain.com/404/
