@@ -1,1 +1,3 @@
-index file for the cms system
+<?php
+require 'inc/sys.php';
+?>
