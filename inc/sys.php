@@ -1,1 +1,3 @@
-// Adds queries and functions to the deskcms
+<?php
+require 'conn.php';
+?>
