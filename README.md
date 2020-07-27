@@ -1,7 +1,9 @@
-# deskcms
-deskcms its a open source content management system built on php. The goal of this project is to create a light fast and secure open source php application that meets everyone's projects and can be used without restrictions so the system itself makes you improve the project using our base files only.
-
-Current development its on Beta and no version has been released yet, so we gonna call it Beta 1.0.0 for now.
+# DeskCMS
+About the project
+DeskCMS its a open source content management system built on PHP and MySQL. Easy to use, scalable and blazing fast and secure too.
 
 # changelogs
+
+version 1.0.0 beta
 - created the directories structure and added a few files of bootstrap
+- Added directory protection with redirects in php
