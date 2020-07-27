@@ -1,1 +1,1 @@
-includes top plugins for the pages such as css files and js files among other functions
+<link rel="stylesheet" href="https://domain.com/inc/4.5.0_bootstrap.min.css">
